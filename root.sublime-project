@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "font-face": "Ubuntu Mono",
+    "font-size": 20,
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true
+  },
+  "folders": [
+    {
+      "file_exclude_patterns": [
+        "Icon?"
+      ],
+      "folder_exclude_patterns": [
+        ".DS_Store",
+        "target"
+      ],
+      "follow_symlinks": true,
+      "name": "\u2693",
+      "path": "."
+    }
+  ]
+}
